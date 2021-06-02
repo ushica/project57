@@ -1,0 +1,13 @@
+body{
+text-align: center;
+    background-color: antiquewhite
+}
+.image{
+    width: 300px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+p{
+    font-size: 30px;
+    font-family: cursive;
+}
